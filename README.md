@@ -2,11 +2,12 @@
 
 ## Table of Contents
     
-    1.Installation
-    2.Project Motivation
-    3.File Descriptions
-    4.Licensing, Authors, and Acknowledgements
-    5.Instructions
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+6. [Instructions](#instructions)
 
 ### Installation
 We need Anaconda distribution of Python, and the following extra packages need to be installed for nltk:
